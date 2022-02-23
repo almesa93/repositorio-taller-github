@@ -1,1 +1,3 @@
 Hola loco!
+
+Ponte a estudiar Git, mongolín.
