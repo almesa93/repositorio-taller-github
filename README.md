@@ -1,7 +1,7 @@
 # repositorio-taller-github
 Repositorio demo del taller de GitHub para los alumnos de Data Science de The Bridge | Digital Talent Accelerator
 
-https://lily-sword-be3.notion.site/Taller-de-Git-y-Github-32501c54f86d482081af81b508f4e515
+https://vast-tip-97c.notion.site/Taller-de-Git-y-Github-2c395673da4647f59ec35a8bbf26a607
 
 
 
